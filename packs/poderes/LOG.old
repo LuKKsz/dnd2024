@@ -1,0 +1,9 @@
+2026/01/18-21:38:10.807 a9cc Recovering log #189
+2026/01/18-21:38:10.808 a9cc Level-0 table #191: started
+2026/01/18-21:38:10.809 a9cc Level-0 table #191: 13188 bytes OK
+2026/01/18-21:38:10.813 a9cc Delete type=0 #189
+2026/01/18-21:38:10.813 a9cc Delete type=3 #188
+2026/01/18-21:53:38.467 a610 Compacting 1@0 + 1@1 files
+2026/01/18-21:53:38.479 a610 Generated table #193@0: 904 keys, 802325 bytes
+2026/01/18-21:53:38.479 a610 Compacted 1@0 + 1@1 files => 802325 bytes
+2026/01/18-21:53:38.479 a610 compacted to: files[ 0 1 0 0 0 0 0 ]
