@@ -1,0 +1,3 @@
+Para compartilhamento do modulo entre amigos...
+
+manifest: https://raw.githubusercontent.com/LuKKsz/dnd2024/refs/heads/main/module.json
