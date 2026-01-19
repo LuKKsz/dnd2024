@@ -131,11 +131,11 @@
       "label": "D&D2024",
       "path": "packs/dndlivro",
       "type": "JournalEntry",
+      "system": "dnd5e",
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
-      },
-      "system": "dnd5e"
+      }
     }
   ],
   "relationships": {
@@ -165,5 +165,7 @@
       "flags": {}
     }
   ],
-  "description": ""
+  "url": "https://github.com/LuKKsz/dnd2024",
+  "manifest": "https://raw.githubusercontent.com/LuKKsz/dnd2024/refs/heads/main/module.json",
+  "download": "https://github.com/LuKKsz/dnd2024/archive/refs/heads/main.zip"
 }
