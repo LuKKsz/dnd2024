@@ -1,3 +1,8 @@
 2026/01/20-11:39:09.958 3428 Recovering log #148
 2026/01/20-11:39:09.961 3428 Delete type=0 #148
 2026/01/20-11:39:09.961 3428 Delete type=3 #147
+2026/01/20-12:15:09.810 2ca4 Level-0 table #152: started
+2026/01/20-12:15:09.811 2ca4 Level-0 table #152: 0 bytes OK
+2026/01/20-12:15:09.811 2ca4 Delete type=0 #150
+2026/01/20-12:15:09.811 2ca4 Manual compaction at level-0 from '!folders!4T18pEvubPMQLzvD' @ 72057594037927935 : 1 .. '!items.effects!mmWorldshakingMo.ERWPInrx4mXsqrwL' @ 0 : 0; will stop at (end)
+2026/01/20-12:15:09.811 2ca4 Manual compaction at level-1 from '!folders!4T18pEvubPMQLzvD' @ 72057594037927935 : 1 .. '!items.effects!mmWorldshakingMo.ERWPInrx4mXsqrwL' @ 0 : 0; will stop at (end)

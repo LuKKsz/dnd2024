@@ -1,3 +1,8 @@
 2026/01/20-11:39:09.943 255c Recovering log #147
 2026/01/20-11:39:09.945 255c Delete type=0 #147
 2026/01/20-11:39:09.945 255c Delete type=3 #146
+2026/01/20-12:15:09.780 2ca4 Level-0 table #151: started
+2026/01/20-12:15:09.780 2ca4 Level-0 table #151: 0 bytes OK
+2026/01/20-12:15:09.781 2ca4 Delete type=0 #149
+2026/01/20-12:15:09.798 2ca4 Manual compaction at level-0 from '!folders!0O0R2DaHzUoslB7X' @ 72057594037927935 : 1 .. '!items.effects!dmgYellowMold000.tTcvxwreyvMHQKW2' @ 0 : 0; will stop at (end)
+2026/01/20-12:15:09.798 2ca4 Manual compaction at level-1 from '!folders!0O0R2DaHzUoslB7X' @ 72057594037927935 : 1 .. '!items.effects!dmgYellowMold000.tTcvxwreyvMHQKW2' @ 0 : 0; will stop at (end)
