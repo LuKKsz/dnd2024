@@ -2979,7 +2979,7 @@
     },
     "Formatted": {
       "Range": "alcance {range}",
-      "Reach": "extensão {reach}"
+      "Reach": "alcance {reach}"
     }
   },
   "DND5E.Range": "Alcance",

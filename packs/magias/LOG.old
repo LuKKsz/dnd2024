@@ -1,12 +1,6 @@
-2026/01/18-21:38:10.857 93dc Recovering log #181
-2026/01/18-21:38:10.857 93dc Level-0 table #183: started
-2026/01/18-21:38:10.859 93dc Level-0 table #183: 15846 bytes OK
-2026/01/18-21:38:10.862 93dc Delete type=0 #181
-2026/01/18-21:38:10.862 93dc Delete type=3 #180
-2026/01/18-21:38:11.569 a610 Moved #183 to level-1 15846 bytes OK: files[ 0 1 1 0 0 0 0 ]
-2026/01/18-21:38:11.572 a610 Compacting 1@1 + 1@2 files
-2026/01/18-21:38:11.582 a610 Generated table #185@1: 692 keys, 764778 bytes
-2026/01/18-21:38:11.582 a610 Compacted 1@1 + 1@2 files => 764778 bytes
-2026/01/18-21:38:11.583 a610 compacted to: files[ 0 0 1 0 0 0 0 ]
-2026/01/18-21:38:11.583 a610 Delete type=2 #179
-2026/01/18-21:38:11.583 a610 Delete type=2 #183
+2026/01/19-08:44:28.472 4cfc Recovering log #184
+2026/01/19-08:44:28.472 4cfc Level-0 table #187: started
+2026/01/19-08:44:28.473 4cfc Level-0 table #187: 8613 bytes OK
+2026/01/19-08:44:28.476 4cfc Delete type=0 #184
+2026/01/19-08:44:28.476 4cfc Delete type=3 #182
+2026/01/19-09:14:32.944 5cac Moved #187 to level-1 8613 bytes OK: files[ 0 1 1 0 0 0 0 ]
