@@ -155,7 +155,8 @@
     ]
   },
   "esmodules": [
-    "scripts/register_babele.js"
+    "scripts/register_babele.js",
+    "scripts/global_mechanics.js"
   ],
   "languages": [
     {

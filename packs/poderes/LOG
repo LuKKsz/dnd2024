@@ -1,17 +1,14 @@
-2026/01/20-11:39:09.851 255c Recovering log #196
-2026/01/20-11:39:09.851 255c Level-0 table #198: started
-2026/01/20-11:39:09.859 255c Level-0 table #198: 118506 bytes OK
-2026/01/20-11:39:09.861 255c Delete type=0 #196
-2026/01/20-11:39:09.862 255c Delete type=3 #194
-2026/01/20-12:15:09.779 2ca4 Level-0 table #201: started
-2026/01/20-12:15:09.779 2ca4 Level-0 table #201: 0 bytes OK
-2026/01/20-12:15:09.780 2ca4 Delete type=0 #199
-2026/01/20-12:15:09.787 2ca4 Manual compaction at level-0 from '!folders!0Ca9gLGFA1up33c3' @ 72057594037927935 : 1 .. '!items.effects!phbwzdTheThirdEy.fmt01uyj41mO9kHm' @ 0 : 0; will stop at '!items!phbftMagicInitia' @ 4185 : 1
-2026/01/20-12:15:09.787 2ca4 Compacting 2@0 + 1@1 files
-2026/01/20-12:15:09.797 2ca4 Generated table #202@0: 904 keys, 803324 bytes
-2026/01/20-12:15:09.797 2ca4 Compacted 2@0 + 1@1 files => 803324 bytes
-2026/01/20-12:15:09.798 2ca4 compacted to: files[ 0 1 0 0 0 0 0 ]
-2026/01/20-12:15:09.798 2ca4 Delete type=2 #193
-2026/01/20-12:15:09.798 2ca4 Delete type=2 #195
-2026/01/20-12:15:09.798 2ca4 Delete type=2 #198
-2026/01/20-12:15:09.798 2ca4 Manual compaction at level-0 from '!items!phbftMagicInitia' @ 4185 : 1 .. '!items.effects!phbwzdTheThirdEy.fmt01uyj41mO9kHm' @ 0 : 0; will stop at (end)
+2026/02/16-12:53:36.190 6798 Recovering log #352
+2026/02/16-12:53:36.193 6798 Delete type=0 #352
+2026/02/16-12:53:36.193 6798 Delete type=3 #350
+2026/02/16-14:28:17.157 3a48 Level-0 table #357: started
+2026/02/16-14:28:17.161 3a48 Level-0 table #357: 86446 bytes OK
+2026/02/16-14:28:17.162 3a48 Delete type=0 #355
+2026/02/16-14:28:17.162 3a48 Manual compaction at level-0 from '!folders!0Ca9gLGFA1up33c3' @ 72057594037927935 : 1 .. '!items.effects!phbwzdTheThirdEy.fmt01uyj41mO9kHm' @ 0 : 0; will stop at '!items!phbftWeaponMaste' @ 4376 : 1
+2026/02/16-14:28:17.162 3a48 Compacting 1@0 + 1@1 files
+2026/02/16-14:28:17.171 3a48 Generated table #358@0: 907 keys, 803776 bytes
+2026/02/16-14:28:17.171 3a48 Compacted 1@0 + 1@1 files => 803776 bytes
+2026/02/16-14:28:17.172 3a48 compacted to: files[ 0 1 0 0 0 0 0 ]
+2026/02/16-14:28:17.172 3a48 Delete type=2 #345
+2026/02/16-14:28:17.172 3a48 Delete type=2 #357
+2026/02/16-14:28:17.174 3a48 Manual compaction at level-0 from '!items!phbftWeaponMaste' @ 4376 : 1 .. '!items.effects!phbwzdTheThirdEy.fmt01uyj41mO9kHm' @ 0 : 0; will stop at (end)

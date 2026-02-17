@@ -1,21 +1,8 @@
-2026/01/20-11:39:10.116 5ca4 Recovering log #15
-2026/01/20-11:39:10.119 5ca4 Delete type=0 #15
-2026/01/20-11:39:10.119 5ca4 Delete type=3 #13
-2026/01/20-12:15:09.813 2ca4 Level-0 table #19: started
-2026/01/20-12:15:09.813 2ca4 Level-0 table #19: 0 bytes OK
-2026/01/20-12:15:09.813 2ca4 Delete type=0 #17
-2026/01/20-12:15:09.828 2ca4 Manual compaction at level-0 from '!journal!phbSpells0000000' @ 72057594037927935 : 1 .. '!journal.pages!phbSpells0000000.yspaGdvukcwiodvl' @ 0 : 0; will stop at '!journal.pages!phbSpells0000000.BH8qd9cOgCVNuKCv' @ 4106 : 1
-2026/01/20-12:15:09.828 2ca4 Compacting 1@0 + 0@1 files
-2026/01/20-12:15:09.831 2ca4 Generated table #20@0: 4 keys, 5969 bytes
-2026/01/20-12:15:09.831 2ca4 Compacted 1@0 + 0@1 files => 5969 bytes
-2026/01/20-12:15:09.832 2ca4 compacted to: files[ 0 1 1 0 0 0 0 ]
-2026/01/20-12:15:09.832 2ca4 Delete type=2 #14
-2026/01/20-12:15:09.833 2ca4 Manual compaction at level-0 from '!journal.pages!phbSpells0000000.BH8qd9cOgCVNuKCv' @ 4106 : 1 .. '!journal.pages!phbSpells0000000.yspaGdvukcwiodvl' @ 0 : 0; will stop at (end)
-2026/01/20-12:15:09.867 2ca4 Manual compaction at level-1 from '!journal!phbSpells0000000' @ 72057594037927935 : 1 .. '!journal.pages!phbSpells0000000.yspaGdvukcwiodvl' @ 0 : 0; will stop at '!journal.pages!phbSpells0000000.BH8qd9cOgCVNuKCv' @ 4106 : 1
-2026/01/20-12:15:09.867 2ca4 Compacting 1@1 + 1@2 files
-2026/01/20-12:15:09.869 2ca4 Generated table #21@1: 11 keys, 18703 bytes
-2026/01/20-12:15:09.869 2ca4 Compacted 1@1 + 1@2 files => 18703 bytes
-2026/01/20-12:15:09.869 2ca4 compacted to: files[ 0 0 1 0 0 0 0 ]
-2026/01/20-12:15:09.869 2ca4 Delete type=2 #12
-2026/01/20-12:15:09.869 2ca4 Delete type=2 #20
-2026/01/20-12:15:09.871 2ca4 Manual compaction at level-1 from '!journal.pages!phbSpells0000000.BH8qd9cOgCVNuKCv' @ 4106 : 1 .. '!journal.pages!phbSpells0000000.yspaGdvukcwiodvl' @ 0 : 0; will stop at (end)
+2026/02/16-12:53:36.422 748c Recovering log #171
+2026/02/16-12:53:36.425 748c Delete type=0 #171
+2026/02/16-12:53:36.425 748c Delete type=3 #169
+2026/02/16-14:28:17.183 3a48 Level-0 table #176: started
+2026/02/16-14:28:17.183 3a48 Level-0 table #176: 0 bytes OK
+2026/02/16-14:28:17.184 3a48 Delete type=0 #174
+2026/02/16-14:28:17.196 3a48 Manual compaction at level-0 from '!folders!1A8WFP1GVZkKdxii' @ 72057594037927935 : 1 .. '!journal.pages!phbWizard0000000.iMbdRPsxWV1pV61w' @ 0 : 0; will stop at (end)
+2026/02/16-14:28:17.196 3a48 Manual compaction at level-1 from '!folders!1A8WFP1GVZkKdxii' @ 72057594037927935 : 1 .. '!journal.pages!phbWizard0000000.iMbdRPsxWV1pV61w' @ 0 : 0; will stop at (end)

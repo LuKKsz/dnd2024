@@ -1,6 +1,8 @@
-2026/01/19-08:44:28.472 4cfc Recovering log #184
-2026/01/19-08:44:28.472 4cfc Level-0 table #187: started
-2026/01/19-08:44:28.473 4cfc Level-0 table #187: 8613 bytes OK
-2026/01/19-08:44:28.476 4cfc Delete type=0 #184
-2026/01/19-08:44:28.476 4cfc Delete type=3 #182
-2026/01/19-09:14:32.944 5cac Moved #187 to level-1 8613 bytes OK: files[ 0 1 1 0 0 0 0 ]
+2026/02/11-17:26:21.126 9228 Recovering log #337
+2026/02/11-17:26:21.128 9228 Delete type=0 #337
+2026/02/11-17:26:21.128 9228 Delete type=3 #335
+2026/02/11-17:48:28.765 4844 Level-0 table #342: started
+2026/02/11-17:48:28.765 4844 Level-0 table #342: 0 bytes OK
+2026/02/11-17:48:28.765 4844 Delete type=0 #340
+2026/02/11-17:48:28.767 4844 Manual compaction at level-0 from '!folders!3SjcO2acsFnWegp4' @ 72057594037927935 : 1 .. '!items.effects!phbsplZoneofTrut.BgkyT4A5qyArRveO' @ 0 : 0; will stop at (end)
+2026/02/11-17:48:28.767 4844 Manual compaction at level-1 from '!folders!3SjcO2acsFnWegp4' @ 72057594037927935 : 1 .. '!items.effects!phbsplZoneofTrut.BgkyT4A5qyArRveO' @ 0 : 0; will stop at (end)

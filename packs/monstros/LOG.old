@@ -1,3 +1,8 @@
-2026/01/19-08:44:28.575 386c Recovering log #166
-2026/01/19-08:44:28.578 386c Delete type=0 #166
-2026/01/19-08:44:28.578 386c Delete type=3 #165
+2026/02/11-17:26:21.216 9228 Recovering log #316
+2026/02/11-17:26:21.219 9228 Delete type=0 #316
+2026/02/11-17:26:21.219 9228 Delete type=3 #314
+2026/02/11-17:48:28.771 4844 Level-0 table #321: started
+2026/02/11-17:48:28.771 4844 Level-0 table #321: 0 bytes OK
+2026/02/11-17:48:28.772 4844 Delete type=0 #319
+2026/02/11-17:48:28.772 4844 Manual compaction at level-0 from '!actors!dmgGithyankiWarr' @ 72057594037927935 : 1 .. '!folders!xmXOrBADA4LyJOGl' @ 0 : 0; will stop at (end)
+2026/02/11-17:48:28.772 4844 Manual compaction at level-1 from '!actors!dmgGithyankiWarr' @ 72057594037927935 : 1 .. '!folders!xmXOrBADA4LyJOGl' @ 0 : 0; will stop at (end)
