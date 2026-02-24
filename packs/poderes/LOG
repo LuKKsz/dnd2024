@@ -1,14 +1,22 @@
-2026/02/16-12:53:36.190 6798 Recovering log #352
-2026/02/16-12:53:36.193 6798 Delete type=0 #352
-2026/02/16-12:53:36.193 6798 Delete type=3 #350
-2026/02/16-14:28:17.157 3a48 Level-0 table #357: started
-2026/02/16-14:28:17.161 3a48 Level-0 table #357: 86446 bytes OK
-2026/02/16-14:28:17.162 3a48 Delete type=0 #355
-2026/02/16-14:28:17.162 3a48 Manual compaction at level-0 from '!folders!0Ca9gLGFA1up33c3' @ 72057594037927935 : 1 .. '!items.effects!phbwzdTheThirdEy.fmt01uyj41mO9kHm' @ 0 : 0; will stop at '!items!phbftWeaponMaste' @ 4376 : 1
-2026/02/16-14:28:17.162 3a48 Compacting 1@0 + 1@1 files
-2026/02/16-14:28:17.171 3a48 Generated table #358@0: 907 keys, 803776 bytes
-2026/02/16-14:28:17.171 3a48 Compacted 1@0 + 1@1 files => 803776 bytes
-2026/02/16-14:28:17.172 3a48 compacted to: files[ 0 1 0 0 0 0 0 ]
-2026/02/16-14:28:17.172 3a48 Delete type=2 #345
-2026/02/16-14:28:17.172 3a48 Delete type=2 #357
-2026/02/16-14:28:17.174 3a48 Manual compaction at level-0 from '!items!phbftWeaponMaste' @ 4376 : 1 .. '!items.effects!phbwzdTheThirdEy.fmt01uyj41mO9kHm' @ 0 : 0; will stop at (end)
+2026/02/24-18:26:34.060 6aa4 Recovering log #388
+2026/02/24-18:26:34.060 6aa4 Level-0 table #390: started
+2026/02/24-18:26:34.062 6aa4 Level-0 table #390: 66297 bytes OK
+2026/02/24-18:26:34.065 6aa4 Delete type=0 #388
+2026/02/24-18:26:34.065 6aa4 Delete type=3 #387
+2026/02/24-18:26:34.611 5750 Compacting 1@0 + 1@1 files
+2026/02/24-18:26:34.621 5750 Generated table #392@0: 906 keys, 800582 bytes
+2026/02/24-18:26:34.621 5750 Compacted 1@0 + 1@1 files => 800582 bytes
+2026/02/24-18:26:34.621 5750 compacted to: files[ 0 1 0 0 0 0 0 ]
+2026/02/24-18:26:34.622 5750 Delete type=2 #384
+2026/02/24-18:26:34.622 5750 Delete type=2 #390
+2026/02/24-18:38:31.615 5750 Level-0 table #394: started
+2026/02/24-18:38:31.618 5750 Level-0 table #394: 78933 bytes OK
+2026/02/24-18:38:31.619 5750 Delete type=0 #391
+2026/02/24-18:38:31.619 5750 Manual compaction at level-0 from '!folders!0Ca9gLGFA1up33c3' @ 72057594037927935 : 1 .. '!items.effects!phbwzdTheThirdEy.fmt01uyj41mO9kHm' @ 0 : 0; will stop at '!items!phbwlkBookOfShad' @ 4528 : 1
+2026/02/24-18:38:31.619 5750 Compacting 1@0 + 1@1 files
+2026/02/24-18:38:31.629 5750 Generated table #395@0: 906 keys, 799923 bytes
+2026/02/24-18:38:31.629 5750 Compacted 1@0 + 1@1 files => 799923 bytes
+2026/02/24-18:38:31.629 5750 compacted to: files[ 0 1 0 0 0 0 0 ]
+2026/02/24-18:38:31.629 5750 Delete type=2 #392
+2026/02/24-18:38:31.630 5750 Delete type=2 #394
+2026/02/24-18:38:31.631 5750 Manual compaction at level-0 from '!items!phbwlkBookOfShad' @ 4528 : 1 .. '!items.effects!phbwzdTheThirdEy.fmt01uyj41mO9kHm' @ 0 : 0; will stop at (end)

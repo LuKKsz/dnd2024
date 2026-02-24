@@ -1,8 +1,8 @@
-2026/02/16-12:53:36.326 6558 Recovering log #320
-2026/02/16-12:53:36.329 6558 Delete type=0 #320
-2026/02/16-12:53:36.329 6558 Delete type=3 #318
-2026/02/16-14:28:17.180 3a48 Level-0 table #325: started
-2026/02/16-14:28:17.180 3a48 Level-0 table #325: 0 bytes OK
-2026/02/16-14:28:17.181 3a48 Delete type=0 #323
-2026/02/16-14:28:17.182 3a48 Manual compaction at level-0 from '!actors!dmgGithyankiWarr' @ 72057594037927935 : 1 .. '!folders!xmXOrBADA4LyJOGl' @ 0 : 0; will stop at (end)
-2026/02/16-14:28:17.182 3a48 Manual compaction at level-1 from '!actors!dmgGithyankiWarr' @ 72057594037927935 : 1 .. '!folders!xmXOrBADA4LyJOGl' @ 0 : 0; will stop at (end)
+2026/02/24-18:26:34.127 6aa4 Recovering log #353
+2026/02/24-18:26:34.130 6aa4 Delete type=0 #353
+2026/02/24-18:26:34.130 6aa4 Delete type=3 #352
+2026/02/24-18:38:31.653 5750 Level-0 table #357: started
+2026/02/24-18:38:31.653 5750 Level-0 table #357: 0 bytes OK
+2026/02/24-18:38:31.654 5750 Delete type=0 #355
+2026/02/24-18:38:31.655 5750 Manual compaction at level-0 from '!actors!dmgGithyankiWarr' @ 72057594037927935 : 1 .. '!folders!xmXOrBADA4LyJOGl' @ 0 : 0; will stop at (end)
+2026/02/24-18:38:31.655 5750 Manual compaction at level-1 from '!actors!dmgGithyankiWarr' @ 72057594037927935 : 1 .. '!folders!xmXOrBADA4LyJOGl' @ 0 : 0; will stop at (end)

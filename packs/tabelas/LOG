@@ -1,8 +1,8 @@
-2026/02/16-12:53:36.406 7190 Recovering log #298
-2026/02/16-12:53:36.409 7190 Delete type=0 #298
-2026/02/16-12:53:36.409 7190 Delete type=3 #296
-2026/02/16-14:28:17.181 3a48 Level-0 table #303: started
-2026/02/16-14:28:17.181 3a48 Level-0 table #303: 0 bytes OK
-2026/02/16-14:28:17.182 3a48 Delete type=0 #301
-2026/02/16-14:28:17.182 3a48 Manual compaction at level-0 from '!folders!F9buBBrMbcKkKGWY' @ 72057594037927935 : 1 .. '!tables.results!phbsplTeleportMi.yJ4FhyyZvenG7AJl' @ 0 : 0; will stop at (end)
-2026/02/16-14:28:17.182 3a48 Manual compaction at level-1 from '!folders!F9buBBrMbcKkKGWY' @ 72057594037927935 : 1 .. '!tables.results!phbsplTeleportMi.yJ4FhyyZvenG7AJl' @ 0 : 0; will stop at (end)
+2026/02/24-18:26:34.161 6ee4 Recovering log #331
+2026/02/24-18:26:34.164 6ee4 Delete type=0 #331
+2026/02/24-18:26:34.164 6ee4 Delete type=3 #330
+2026/02/24-18:38:31.654 5750 Level-0 table #335: started
+2026/02/24-18:38:31.654 5750 Level-0 table #335: 0 bytes OK
+2026/02/24-18:38:31.655 5750 Delete type=0 #333
+2026/02/24-18:38:31.655 5750 Manual compaction at level-0 from '!folders!F9buBBrMbcKkKGWY' @ 72057594037927935 : 1 .. '!tables.results!phbsplTeleportMi.yJ4FhyyZvenG7AJl' @ 0 : 0; will stop at (end)
+2026/02/24-18:38:31.655 5750 Manual compaction at level-1 from '!folders!F9buBBrMbcKkKGWY' @ 72057594037927935 : 1 .. '!tables.results!phbsplTeleportMi.yJ4FhyyZvenG7AJl' @ 0 : 0; will stop at (end)

@@ -35,12 +35,14 @@ Hooks.on("init", () => {
                 levelValue = system.details.cr || 0;
             }
 
-            const bonus = Math.floor(levelValue / 2);
+            const halfBonus = Math.floor(levelValue / 2);
+            const thirdBonus = Math.floor(levelValue / 3);
 
             // Inject into the returned data object
-            // We want @scale.half
+            // We want @scale.half and @scale.third
             if (!data.scale) data.scale = {};
-            data.scale.half = bonus;
+            data.scale.half = halfBonus;
+            data.scale.third = thirdBonus;
 
             // Should usually be available as @scale.half
 
