@@ -1,3 +1,29 @@
-2026/02/24-14:57:49.683 44ac Recovering log #372
-2026/02/24-14:57:49.686 44ac Delete type=0 #372
-2026/02/24-14:57:49.686 44ac Delete type=3 #371
+2026/03/03-07:04:04.883 bec Recovering log #435
+2026/03/03-07:04:04.883 bec Level-0 table #437: started
+2026/03/03-07:04:04.885 bec Level-0 table #437: 18814 bytes OK
+2026/03/03-07:04:04.887 bec Delete type=0 #435
+2026/03/03-07:04:04.888 bec Delete type=3 #433
+2026/03/03-07:37:39.228 2df0 Compacting 1@0 + 1@1 files
+2026/03/03-07:37:39.231 2df0 Generated table #439@0: 41 keys, 56790 bytes
+2026/03/03-07:37:39.231 2df0 Compacted 1@0 + 1@1 files => 56790 bytes
+2026/03/03-07:37:39.232 2df0 compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/03/03-08:29:48.997 2df0 Compacting 1@1 + 1@2 files
+2026/03/03-08:29:49.007 2df0 Generated table #440@1: 692 keys, 738215 bytes
+2026/03/03-08:29:49.007 2df0 Compacted 1@1 + 1@2 files => 738215 bytes
+2026/03/03-08:29:49.007 2df0 compacted to: files[ 0 0 1 0 0 0 0 ]
+2026/03/03-08:29:49.008 2df0 Delete type=2 #422
+2026/03/03-08:29:49.008 2df0 Delete type=2 #434
+2026/03/03-08:29:49.008 2df0 Delete type=2 #437
+2026/03/03-08:29:49.008 2df0 Delete type=2 #439
+2026/03/03-18:10:44.575 2df0 Level-0 table #442: started
+2026/03/03-18:10:44.578 2df0 Level-0 table #442: 111806 bytes OK
+2026/03/03-18:10:44.579 2df0 Delete type=0 #438
+2026/03/03-18:10:44.581 2df0 Manual compaction at level-0 from '!folders!3SjcO2acsFnWegp4' @ 72057594037927935 : 1 .. '!items.effects!phbsplZoneofTrut.BgkyT4A5qyArRveO' @ 0 : 0; will stop at (end)
+2026/03/03-18:10:44.581 2df0 Manual compaction at level-1 from '!folders!3SjcO2acsFnWegp4' @ 72057594037927935 : 1 .. '!items.effects!phbsplZoneofTrut.BgkyT4A5qyArRveO' @ 0 : 0; will stop at '!items!phbsplWindWall00' @ 3172 : 1
+2026/03/03-18:10:44.581 2df0 Compacting 1@1 + 1@2 files
+2026/03/03-18:10:44.590 2df0 Generated table #443@1: 692 keys, 732341 bytes
+2026/03/03-18:10:44.590 2df0 Compacted 1@1 + 1@2 files => 732341 bytes
+2026/03/03-18:10:44.591 2df0 compacted to: files[ 0 0 1 0 0 0 0 ]
+2026/03/03-18:10:44.591 2df0 Delete type=2 #440
+2026/03/03-18:10:44.591 2df0 Delete type=2 #442
+2026/03/03-18:10:44.592 2df0 Manual compaction at level-1 from '!items!phbsplWindWall00' @ 3172 : 1 .. '!items.effects!phbsplZoneofTrut.BgkyT4A5qyArRveO' @ 0 : 0; will stop at (end)

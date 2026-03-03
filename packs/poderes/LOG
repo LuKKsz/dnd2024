@@ -1,22 +1,7 @@
-2026/02/24-18:26:34.060 6aa4 Recovering log #388
-2026/02/24-18:26:34.060 6aa4 Level-0 table #390: started
-2026/02/24-18:26:34.062 6aa4 Level-0 table #390: 66297 bytes OK
-2026/02/24-18:26:34.065 6aa4 Delete type=0 #388
-2026/02/24-18:26:34.065 6aa4 Delete type=3 #387
-2026/02/24-18:26:34.611 5750 Compacting 1@0 + 1@1 files
-2026/02/24-18:26:34.621 5750 Generated table #392@0: 906 keys, 800582 bytes
-2026/02/24-18:26:34.621 5750 Compacted 1@0 + 1@1 files => 800582 bytes
-2026/02/24-18:26:34.621 5750 compacted to: files[ 0 1 0 0 0 0 0 ]
-2026/02/24-18:26:34.622 5750 Delete type=2 #384
-2026/02/24-18:26:34.622 5750 Delete type=2 #390
-2026/02/24-18:38:31.615 5750 Level-0 table #394: started
-2026/02/24-18:38:31.618 5750 Level-0 table #394: 78933 bytes OK
-2026/02/24-18:38:31.619 5750 Delete type=0 #391
-2026/02/24-18:38:31.619 5750 Manual compaction at level-0 from '!folders!0Ca9gLGFA1up33c3' @ 72057594037927935 : 1 .. '!items.effects!phbwzdTheThirdEy.fmt01uyj41mO9kHm' @ 0 : 0; will stop at '!items!phbwlkBookOfShad' @ 4528 : 1
-2026/02/24-18:38:31.619 5750 Compacting 1@0 + 1@1 files
-2026/02/24-18:38:31.629 5750 Generated table #395@0: 906 keys, 799923 bytes
-2026/02/24-18:38:31.629 5750 Compacted 1@0 + 1@1 files => 799923 bytes
-2026/02/24-18:38:31.629 5750 compacted to: files[ 0 1 0 0 0 0 0 ]
-2026/02/24-18:38:31.629 5750 Delete type=2 #392
-2026/02/24-18:38:31.630 5750 Delete type=2 #394
-2026/02/24-18:38:31.631 5750 Manual compaction at level-0 from '!items!phbwlkBookOfShad' @ 4528 : 1 .. '!items.effects!phbwzdTheThirdEy.fmt01uyj41mO9kHm' @ 0 : 0; will stop at (end)
+2026/03/03-18:10:50.673 bdc Recovering log #446
+2026/03/03-18:10:50.676 bdc Delete type=0 #446
+2026/03/03-18:10:50.676 bdc Delete type=3 #444
+2026/03/03-18:11:10.298 2df0 Level-0 table #451: started
+2026/03/03-18:11:10.298 2df0 Level-0 table #451: 0 bytes OK
+2026/03/03-18:11:10.299 2df0 Delete type=0 #449
+2026/03/03-18:11:10.299 2df0 Manual compaction at level-0 from '!folders!0Ca9gLGFA1up33c3' @ 72057594037927935 : 1 .. '!items.effects!phbwzdTheThirdEy.fmt01uyj41mO9kHm' @ 0 : 0; will stop at (end)
