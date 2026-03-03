@@ -1,7 +1,7 @@
-2026/03/03-07:04:04.823 3078 Recovering log #443
-2026/03/03-07:04:04.826 3078 Delete type=0 #443
-2026/03/03-07:04:04.827 3078 Delete type=3 #442
-2026/03/03-18:10:44.570 2df0 Level-0 table #447: started
-2026/03/03-18:10:44.570 2df0 Level-0 table #447: 0 bytes OK
-2026/03/03-18:10:44.571 2df0 Delete type=0 #445
-2026/03/03-18:10:44.573 2df0 Manual compaction at level-0 from '!folders!0Ca9gLGFA1up33c3' @ 72057594037927935 : 1 .. '!items.effects!phbwzdTheThirdEy.fmt01uyj41mO9kHm' @ 0 : 0; will stop at (end)
+2026/03/03-18:10:50.673 bdc Recovering log #446
+2026/03/03-18:10:50.676 bdc Delete type=0 #446
+2026/03/03-18:10:50.676 bdc Delete type=3 #444
+2026/03/03-18:11:10.298 2df0 Level-0 table #451: started
+2026/03/03-18:11:10.298 2df0 Level-0 table #451: 0 bytes OK
+2026/03/03-18:11:10.299 2df0 Delete type=0 #449
+2026/03/03-18:11:10.299 2df0 Manual compaction at level-0 from '!folders!0Ca9gLGFA1up33c3' @ 72057594037927935 : 1 .. '!items.effects!phbwzdTheThirdEy.fmt01uyj41mO9kHm' @ 0 : 0; will stop at (end)
