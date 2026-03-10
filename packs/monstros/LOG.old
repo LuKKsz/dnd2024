@@ -1,8 +1,21 @@
-2026/03/09-17:42:02.739 61ec Recovering log #498
-2026/03/09-17:42:02.742 61ec Delete type=0 #498
-2026/03/09-17:42:02.742 61ec Delete type=3 #497
-2026/03/09-19:14:01.510 a2f0 Level-0 table #502: started
-2026/03/09-19:14:01.510 a2f0 Level-0 table #502: 0 bytes OK
-2026/03/09-19:14:01.511 a2f0 Delete type=0 #500
-2026/03/09-19:14:01.511 a2f0 Manual compaction at level-0 from '!actors!dmgGithyankiWarr' @ 72057594037927935 : 1 .. '!folders!xmXOrBADA4LyJOGl' @ 0 : 0; will stop at (end)
-2026/03/09-19:14:01.511 a2f0 Manual compaction at level-1 from '!actors!dmgGithyankiWarr' @ 72057594037927935 : 1 .. '!folders!xmXOrBADA4LyJOGl' @ 0 : 0; will stop at (end)
+2026/03/10-09:04:07.315 5bd0 Recovering log #505
+2026/03/10-09:04:07.322 5bd0 Level-0 table #511: started
+2026/03/10-09:04:07.333 5bd0 Level-0 table #511: 1473981 bytes OK
+2026/03/10-09:04:07.336 5bd0 Delete type=0 #505
+2026/03/10-09:04:07.336 5bd0 Delete type=3 #503
+2026/03/10-09:04:08.098 7b4 Moved #511 to level-1 1473981 bytes OK: files[ 0 1 3 0 0 0 0 ]
+2026/03/10-09:04:08.099 7b4 Compacting 1@1 + 3@2 files
+2026/03/10-09:04:08.120 7b4 Generated table #513@1: 980 keys, 2122536 bytes
+2026/03/10-09:04:08.182 7b4 Generated table #514@1: 1845 keys, 2126947 bytes
+2026/03/10-09:04:08.196 7b4 Generated table #515@1: 2206 keys, 1171870 bytes
+2026/03/10-09:04:08.196 7b4 Compacted 1@1 + 3@2 files => 5421353 bytes
+2026/03/10-09:04:08.196 7b4 compacted to: files[ 0 0 3 0 0 0 0 ]
+2026/03/10-09:04:08.196 7b4 Delete type=2 #507
+2026/03/10-09:04:08.197 7b4 Delete type=2 #508
+2026/03/10-09:04:08.197 7b4 Delete type=2 #509
+2026/03/10-09:04:08.197 7b4 Delete type=2 #511
+2026/03/10-10:39:18.510 7b4 Level-0 table #517: started
+2026/03/10-10:39:18.510 7b4 Level-0 table #517: 0 bytes OK
+2026/03/10-10:39:18.511 7b4 Delete type=0 #512
+2026/03/10-10:39:18.516 7b4 Manual compaction at level-0 from '!actors!dmgGithyankiWarr' @ 72057594037927935 : 1 .. '!folders!xmXOrBADA4LyJOGl' @ 0 : 0; will stop at (end)
+2026/03/10-10:39:18.516 7b4 Manual compaction at level-1 from '!actors!dmgGithyankiWarr' @ 72057594037927935 : 1 .. '!folders!xmXOrBADA4LyJOGl' @ 0 : 0; will stop at (end)

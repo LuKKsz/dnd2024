@@ -1,3 +1,8 @@
-2026/03/09-19:14:04.606 60e0 Recovering log #346
-2026/03/09-19:14:04.609 60e0 Delete type=0 #346
-2026/03/09-19:14:04.609 60e0 Delete type=3 #344
+2026/03/10-10:52:16.413 2d24 Recovering log #352
+2026/03/10-10:52:16.415 2d24 Delete type=0 #352
+2026/03/10-10:52:16.416 2d24 Delete type=3 #350
+2026/03/10-11:06:58.510 7b4 Level-0 table #357: started
+2026/03/10-11:06:58.510 7b4 Level-0 table #357: 0 bytes OK
+2026/03/10-11:06:58.511 7b4 Delete type=0 #355
+2026/03/10-11:06:58.512 7b4 Manual compaction at level-0 from '!folders!RAKzvAvikx4P8OWl' @ 72057594037927935 : 1 .. '!journal.pages!phbSpells0000000.yspaGdvukcwiodvl' @ 0 : 0; will stop at (end)
+2026/03/10-11:06:58.512 7b4 Manual compaction at level-1 from '!folders!RAKzvAvikx4P8OWl' @ 72057594037927935 : 1 .. '!journal.pages!phbSpells0000000.yspaGdvukcwiodvl' @ 0 : 0; will stop at (end)

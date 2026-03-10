@@ -1,8 +1,8 @@
-2026/03/09-17:42:02.837 61ec Recovering log #343
-2026/03/09-17:42:02.840 61ec Delete type=0 #343
-2026/03/09-17:42:02.840 61ec Delete type=3 #342
-2026/03/09-19:14:01.513 a2f0 Level-0 table #347: started
-2026/03/09-19:14:01.513 a2f0 Level-0 table #347: 0 bytes OK
-2026/03/09-19:14:01.514 a2f0 Delete type=0 #345
-2026/03/09-19:14:01.516 a2f0 Manual compaction at level-0 from '!folders!RAKzvAvikx4P8OWl' @ 72057594037927935 : 1 .. '!journal.pages!phbSpells0000000.yspaGdvukcwiodvl' @ 0 : 0; will stop at (end)
-2026/03/09-19:14:01.516 a2f0 Manual compaction at level-1 from '!folders!RAKzvAvikx4P8OWl' @ 72057594037927935 : 1 .. '!journal.pages!phbSpells0000000.yspaGdvukcwiodvl' @ 0 : 0; will stop at (end)
+2026/03/10-09:04:07.461 2d24 Recovering log #349
+2026/03/10-09:04:07.464 2d24 Delete type=0 #349
+2026/03/10-09:04:07.464 2d24 Delete type=3 #348
+2026/03/10-10:39:18.512 7b4 Level-0 table #353: started
+2026/03/10-10:39:18.512 7b4 Level-0 table #353: 0 bytes OK
+2026/03/10-10:39:18.513 7b4 Delete type=0 #351
+2026/03/10-10:39:18.516 7b4 Manual compaction at level-0 from '!folders!RAKzvAvikx4P8OWl' @ 72057594037927935 : 1 .. '!journal.pages!phbSpells0000000.yspaGdvukcwiodvl' @ 0 : 0; will stop at (end)
+2026/03/10-10:39:18.516 7b4 Manual compaction at level-1 from '!folders!RAKzvAvikx4P8OWl' @ 72057594037927935 : 1 .. '!journal.pages!phbSpells0000000.yspaGdvukcwiodvl' @ 0 : 0; will stop at (end)
