@@ -1,8 +1,15 @@
-2026/03/03-18:10:50.701 bdc Recovering log #417
-2026/03/03-18:10:50.705 bdc Delete type=0 #417
-2026/03/03-18:10:50.705 bdc Delete type=3 #415
-2026/03/03-18:11:10.301 2df0 Level-0 table #422: started
-2026/03/03-18:11:10.301 2df0 Level-0 table #422: 0 bytes OK
-2026/03/03-18:11:10.302 2df0 Delete type=0 #420
-2026/03/03-18:11:10.304 2df0 Manual compaction at level-0 from '!folders!1EvJjbqwO6S0CjxA' @ 72057594037927935 : 1 .. '!items.effects!dmgstoBeltofGian.dVP7XiBERjMWs7xK' @ 0 : 0; will stop at (end)
-2026/03/03-18:11:10.304 2df0 Manual compaction at level-1 from '!folders!1EvJjbqwO6S0CjxA' @ 72057594037927935 : 1 .. '!items.effects!dmgstoBeltofGian.dVP7XiBERjMWs7xK' @ 0 : 0; will stop at (end)
+2026/03/09-17:42:02.679 60e0 Recovering log #496
+2026/03/09-17:42:02.682 60e0 Delete type=0 #496
+2026/03/09-17:42:02.682 60e0 Delete type=3 #495
+2026/03/09-19:14:01.444 a2f0 Level-0 table #500: started
+2026/03/09-19:14:01.462 a2f0 Level-0 table #500: 215950 bytes OK
+2026/03/09-19:14:01.463 a2f0 Delete type=0 #498
+2026/03/09-19:14:01.489 a2f0 Manual compaction at level-0 from '!folders!1EvJjbqwO6S0CjxA' @ 72057594037927935 : 1 .. '!items.effects!dmgstoBeltofGian.dVP7XiBERjMWs7xK' @ 0 : 0; will stop at (end)
+2026/03/09-19:14:01.489 a2f0 Manual compaction at level-1 from '!folders!1EvJjbqwO6S0CjxA' @ 72057594037927935 : 1 .. '!items.effects!dmgstoBeltofGian.dVP7XiBERjMWs7xK' @ 0 : 0; will stop at '!items!dmgYellowElement' @ 1245 : 1
+2026/03/09-19:14:01.489 a2f0 Compacting 1@1 + 1@2 files
+2026/03/09-19:14:01.499 a2f0 Generated table #501@1: 927 keys, 922744 bytes
+2026/03/09-19:14:01.499 a2f0 Compacted 1@1 + 1@2 files => 922744 bytes
+2026/03/09-19:14:01.499 a2f0 compacted to: files[ 0 0 1 0 0 0 0 ]
+2026/03/09-19:14:01.500 a2f0 Delete type=2 #316
+2026/03/09-19:14:01.500 a2f0 Delete type=2 #500
+2026/03/09-19:14:01.506 a2f0 Manual compaction at level-1 from '!items!dmgYellowElement' @ 1245 : 1 .. '!items.effects!dmgstoBeltofGian.dVP7XiBERjMWs7xK' @ 0 : 0; will stop at (end)

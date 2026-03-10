@@ -37,12 +37,15 @@ Hooks.on("init", () => {
 
             const halfBonus = Math.floor(levelValue / 2);
             const thirdBonus = Math.floor(levelValue / 3);
+            const quarterBonus = Math.floor(levelValue / 4);
+            const fifthBonus = Math.floor(levelValue / 5);
 
             // Inject into the returned data object
-            // We want @scale.half and @scale.third
             if (!data.scale) data.scale = {};
             data.scale.half = halfBonus;
             data.scale.third = thirdBonus;
+            data.scale.quarter = quarterBonus;
+            data.scale.fifth = fifthBonus;
 
             // Should usually be available as @scale.half
 
