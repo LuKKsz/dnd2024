@@ -1,3 +1,8 @@
-2026/03/13-10:59:20.257 1cb0 Recovering log #531
-2026/03/13-10:59:20.261 1cb0 Delete type=0 #531
-2026/03/13-10:59:20.261 1cb0 Delete type=3 #530
+2026/03/22-11:28:42.545 f84 Recovering log #557
+2026/03/22-11:28:42.548 f84 Delete type=0 #557
+2026/03/22-11:28:42.548 f84 Delete type=3 #556
+2026/03/22-11:44:06.658 87a8 Level-0 table #561: started
+2026/03/22-11:44:06.658 87a8 Level-0 table #561: 0 bytes OK
+2026/03/22-11:44:06.658 87a8 Delete type=0 #559
+2026/03/22-11:44:06.658 87a8 Manual compaction at level-0 from '!actors!dmgGithyankiWarr' @ 72057594037927935 : 1 .. '!folders!xmXOrBADA4LyJOGl' @ 0 : 0; will stop at (end)
+2026/03/22-11:44:06.658 87a8 Manual compaction at level-1 from '!actors!dmgGithyankiWarr' @ 72057594037927935 : 1 .. '!folders!xmXOrBADA4LyJOGl' @ 0 : 0; will stop at (end)
